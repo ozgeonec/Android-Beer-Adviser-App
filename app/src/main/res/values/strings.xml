@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BeerAdviser</string>
+    <string name="this_is_a_text_view">This is a text view</string>
+    <string name="button">Button</string>
+</resources>
